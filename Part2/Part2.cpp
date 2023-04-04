@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int mainfct() {
 
   char *ordinal[] = {"st", "nd", "rd", "th"};
 
